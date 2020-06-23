@@ -1,0 +1,13 @@
+#ignore vim temp file
+*~
+*.swp
+
+#ignore .exe
+*.exe *Main
+
+#ignore .o
+*.o
+
+#ignore test file
+*.test
+*.txt
