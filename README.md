@@ -6,11 +6,11 @@ This is about learning courses in Coursera. The quiz and programming homework is
 Datacamp website: https://www.coursera.org
 
 # List of Courses
-- #### [The University of Melbourne & The Chinese University of Hong Kong - Basic Modeling for Discrete Optimization]
+- #### [The University of Melbourne & The Chinese University of Hong Kong - Basic Modeling for Discrete Optimization](./The%20University%20of%20Melbourne%20-%20Basic%20Modeling%20for%20Discrete%20Optimization.rar)
 - #### [Stanford University - Machine Learning](./Stanford%20University%20-%20Machine%20Learning)
-- #### [Rice University - Python Data Representations]
+- #### [Rice University - Python Data Representations](./Rice-Python%20Data%20Representations)
 
-- #### [Rice University - Python Data Analysis]
+- #### [Rice University - Python Data Analysis](./Rice-Python%20Data%20Analysis)
 
 - #### [Rice University - Python Data Visualization]
 
