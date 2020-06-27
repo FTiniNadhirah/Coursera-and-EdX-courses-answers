@@ -10,7 +10,7 @@ Datacamp website: https://www.coursera.org
 - #### [Stanford University - Machine Learning]
 - #### [Rice University - Python Data Representations]
 
-- #### [Rice University - Python Data Analysis](./Rice-Python-Data-Analysis)
+- #### [Rice University - Python Data Analysis]./Rice-Python-Data-Analysis)(
 
 - #### [Rice University - Python Data Visualization](./Rice-Python-Data-Visualization)
 
