@@ -47,7 +47,7 @@ Coursera website: https://www.coursera.org
 
 8. [IBM: Applied Data Science Capstone Project](./Applied%20Data%20Science%20Specialization%20IBM/IBM%20-%20Applied%20Data%20Science%20Capstone%20Project)
 
-- #### [University of Helsinki: Object-Oriented Programming with Java, part I](./)
+- #### [University of Helsinki: Object-Oriented Programming with Java, part I](./Object%20Oriented%20Programming%20with%20Java%20pt1%20University%20of%20Helsinki%20moocfi)
 
 - #### [The Hong Kong University of Science and Technology - Python and Statistics for Financial Analysis](./)
 
