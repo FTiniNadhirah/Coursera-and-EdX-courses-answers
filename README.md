@@ -94,13 +94,13 @@ Datacamp website: https://www.coursera.org
 
 4. [Johns Hopkins University - HTML, CSS, and Javascript for Web Developers](./Johns%20Hopkins%20University%20-%20Ruby%20on%20Rails%20Web%20Development%20Specialization/Johns%20Hopkins%20University%20-%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers)
 
-5. [Johns Hopkins University - Single Page Web Applications with AngularJS](./Johns%20Hopkins%20University%20-%20Ruby%20on%20Rails%20Web%20Development%20Specialization/Johns%20Hopkins%20University%20-%20Single%20Page%20Web%20Applications%20with%20AngularJS)
+5. [Johns Hopkins University - Single Page Web Applications with AngularJS]
 
-- #### [University of Michigan - Web Design for Everybody: Web Development & Coding Specialization](./University%20of%20Michigan%20-%20Web%20Design%20for%20Everybody)
+- #### [University of Michigan - Web Design for Everybody: Web Development & Coding Specialization]
 
-1. [University of Michigan - HTML5](./University%20of%20Michigan%20-%20Web%20Design%20for%20Everybody/University%20of%20Michigan%20-%20%20HTML5)
+1. [University of Michigan - HTML5]
 
-2. [University of Michigan - CSS3](./University%20of%20Michigan%20-%20Web%20Design%20for%20Everybody/University%20of%20Michigan%20-%20%20CSS3)
+2. [University of Michigan - CSS3]
 
 3. [University of Michigan -  Interactivity with JavaScript]
 
