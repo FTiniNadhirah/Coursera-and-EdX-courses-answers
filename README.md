@@ -14,13 +14,13 @@ Coursera website: https://www.coursera.org
 
 - #### [Rice University - Python Data Visualization](./Rice-Python%20Data%20Visualization)
 
-- #### [Johns Hopkins University - Data Science Specialization]
+- #### [Johns Hopkins University - Data Science Specialization](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization)
 
-1. [Johns Hopkins University - R Programming]
+1. [Johns Hopkins University - R Programming](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization/Johns%20Hopkins%20University%20-%20R%20Programming)
 
-2. [Johns Hopkins University - Getting and Cleaning Data]
+2. [Johns Hopkins University - Getting and Cleaning Data](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization/Johns%20Hopkins%20University%20-%20Getting%20and%20Cleaning%20Data)
 
-3. [Johns Hopkins University - Exploratory Data Analysis]
+3. [Johns Hopkins University - Exploratory Data Analysis](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization/Johns%20Hopkins%20University%20-%20Exploratory%20Data%20Analysis)
 
 4. [Johns Hopkins University - Reproducible Research]
 
