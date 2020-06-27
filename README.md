@@ -56,36 +56,30 @@ Datacamp website: https://www.coursera.org
 
 1. [Google - Crash Course on Python](./Google%20IT%20Automation%20with%20Python/Google%20-%20Crash%20Course%20on%20Python)
 
-2. [Google - Using Python to Interact with the Operating System](./Google%20IT%20Automation%20with%20Python/Google%20-%20Using%20Python%20to%20Interact%20with%20the%20Operating%20System)
+2. [Google - Using Python to Interact with the Operating System]
 
+- #### [Delft University of Technology - Automated Software Testing]
+- #### [University of Maryland, College Park: Cybersecurity Specialization] 
 
-- #### [Delft University of Technology - Automated Software Testing](./Delft%20University%20of%20Technology%20-%20Automated%20Software%20Testing)
+1. [University of Maryland, College Park: Software Security]
 
-- #### [University of Maryland, College Park: Cybersecurity Specialization](./University%20of%20Maryland%20-%20Cybersecurity%20Specialization) 
+2. [University of Maryland, College Park: Usable Security]
 
-1. [University of Maryland, College Park: Software Security](./University%20of%20Maryland%20-%20Cybersecurity%20Specialization/University%20of%20Maryland%20-%20Software%20Security)
+- #### [University of Maryland, College Park: Programming Mobile Applications for Android Handheld Systems: Part 1]
 
-2. [University of Maryland, College Park: Usable Security](./University%20of%20Maryland%20-%20Cybersecurity%20Specialization/University%20of%20Maryland%20-%20Usable%20Security)
+- #### [Harvard University - Introduction to Computer Science CS50x]
 
-- #### [University of Maryland, College Park: Programming Mobile Applications for Android Handheld Systems: Part 1](./University%20of%20Maryland%20-%20Programming%20Mobile%20Applications%20for%20Android%20Handheld%20Systems%2C%20Part%20I)
+- #### [Duke University - Java Programming: Principles of Software Design]
 
+- #### [Duke University - Java Programming: Solving Problems with Software]
 
-- #### [Harvard University - Introduction to Computer Science CS50x](./Harvard-CS50x)
+- #### [Duke University - Java Programming: Arrays, Lists, and Structured Data]
 
-- #### [Duke University - Java Programming: Principles of Software Design](./Duke-Java-Programming-Principles-of-Software-Design)
+- #### [Duke University - Data Science Math Skills]
+- #### [Massachusetts Institute of Technology - Introduction to Computer Science and Programming Using Python 6.00.1x]
 
-- #### [Duke University - Java Programming: Solving Problems with Software](./Duke-Java-Programming-Solving-Problems-with-Software)
-
-- #### [Duke University - Java Programming: Arrays, Lists, and Structured Data](./Duke-Java-Programming-Arrays-Lists-Structured-Data)
-
-- #### [Duke University - Data Science Math Skills](./Duke-University-Data-Science-Math-Skills)
-
-- #### [Massachusetts Institute of Technology - Introduction to Computer Science and Programming Using Python 6.00.1x](./MITx-6.00.1x)
-
-- #### [Massachusetts Institute of Technology - Introduction to Computational Thinking and Data Science 6.00.2x](./MITx-6.00.2x)
-
-- #### [Johns Hopkins University: Ruby on Rails Web Development Specialization](./Johns%20Hopkins%20University%20-%20Ruby%20on%20Rails%20Web%20Development%20Specialization)
-
+- #### [Massachusetts Institute of Technology - Introduction to Computational Thinking and Data Science 6.00.2x]
+- #### [Johns Hopkins University: Ruby on Rails Web Development Specialization]
 1. [Johns Hopkins University - Ruby on Rails]
 
 2. [Johns Hopkins University - Rails with Active Record and Action Pack]
