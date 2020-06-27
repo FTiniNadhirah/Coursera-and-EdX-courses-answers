@@ -74,7 +74,7 @@ Coursera website: https://www.coursera.org
 
 - #### [Duke University - Java Programming: Arrays, Lists, and Structured Data](./)
 
-- #### [Duke University - Data Science Math Skills]
+- #### [Duke University - Data Science Math Skills](./)
 - #### [Massachusetts Institute of Technology - Introduction to Computer Science and Programming Using Python 6.00.1x](./)
 
 - #### [Massachusetts Institute of Technology - Introduction to Computational Thinking and Data Science 6.00.2x](./)
