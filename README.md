@@ -3,7 +3,7 @@ This is about learning courses in Coursera. The quiz and programming homework is
 
 # All quiz answers stored in this repositories
 
-Datacamp website: https://www.coursera.org
+Coursera website: https://www.coursera.org
 
 # List of Courses
 - #### [The University of Melbourne & The Chinese University of Hong Kong - Basic Modeling for Discrete Optimization](./The%20University%20of%20Melbourne%20-%20Basic%20Modeling%20for%20Discrete%20Optimization.rar)
