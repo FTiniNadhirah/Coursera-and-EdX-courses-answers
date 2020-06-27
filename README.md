@@ -12,7 +12,7 @@ Datacamp website: https://www.coursera.org
 
 - #### [Rice University - Python Data Analysis](./Rice-Python%20Data%20Analysis)
 
-- #### [Rice University - Python Data Visualization]
+- #### [Rice University - Python Data Visualization](./Rice-Python%20Data%20Visualization)
 
 - #### [Johns Hopkins University - Data Science Specialization]
 
