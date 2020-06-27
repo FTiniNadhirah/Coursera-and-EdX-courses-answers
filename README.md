@@ -22,97 +22,97 @@ Coursera website: https://www.coursera.org
 
 3. [Johns Hopkins University - Exploratory Data Analysis](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization/Johns%20Hopkins%20University%20-%20Exploratory%20Data%20Analysis)
 
-4. [Johns Hopkins University - Reproducible Research]
+4. [Johns Hopkins University - Reproducible Research](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization/Johns%20Hopkins%20University%20-%20Reproducible%20Research)
 
-- #### [University of California, San Diego - Object Oriented Programming in Java]
+- #### [University of California, San Diego - Object Oriented Programming in Java](./UCSD%20Object%20Oriented%20Programming%20in%20Java)
 
-- #### [University of California, San Diego - Data Structures and Performance]
+- #### [University of California, San Diego - Data Structures and Performance](./)
 
-- #### [University of California, San Diego - Advanced Data Structures in Java]
+- #### [University of California, San Diego - Advanced Data Structures in Java](./)
 
-- #### [IBM: Applied Data Science Specialization]
+- #### [IBM: Applied Data Science Specialization](./)
 
-1. [IBM: Open Source tools for Data Science]
+1. [IBM: Open Source tools for Data Science](./)
 
-2. [IBM: Data Science Methodology]
+2. [IBM: Data Science Methodology](./)
 
-3. [IBM: Python for Data Science]
-4. [IBM: Databases and SQL for Data Science]
+3. [IBM: Python for Data Science](./)
+4. [IBM: Databases and SQL for Data Science](./)
 
-5. [IBM: Data Analysis with Python]
+5. [IBM: Data Analysis with Python](./)
 
-6. [IBM: Data Visualization with Python]
+6. [IBM: Data Visualization with Python](./)
 
-7. [IBM: Machine Learning with Python]
+7. [IBM: Machine Learning with Python](./)
 
-8. [IBM: Applied Data Science Capstone Project]
+8. [IBM: Applied Data Science Capstone Project](./)
 
-- #### [University of Helsinki: Object-Oriented Programming with Java, part I]
+- #### [University of Helsinki: Object-Oriented Programming with Java, part I](./)
 
-- #### [The Hong Kong University of Science and Technology - Python and Statistics for Financial Analysis]
+- #### [The Hong Kong University of Science and Technology - Python and Statistics for Financial Analysis](./)
 
-- #### [Google IT Automation with Python Professional Certificate]
+- #### [Google IT Automation with Python Professional Certificate](./)
 
-1. [Google - Crash Course on Python]
+1. [Google - Crash Course on Python](./)
 
-2. [Google - Using Python to Interact with the Operating System]
+2. [Google - Using Python to Interact with the Operating System](./)
 
-- #### [Delft University of Technology - Automated Software Testing]
-- #### [University of Maryland, College Park: Cybersecurity Specialization] 
+- #### [Delft University of Technology - Automated Software Testing](./)
+- #### [University of Maryland, College Park: Cybersecurity Specialization](./)
 
-1. [University of Maryland, College Park: Software Security]
+1. [University of Maryland, College Park: Software Security](./)
 
-2. [University of Maryland, College Park: Usable Security]
+2. [University of Maryland, College Park: Usable Security](./)
 
-- #### [University of Maryland, College Park: Programming Mobile Applications for Android Handheld Systems: Part 1]
+- #### [University of Maryland, College Park: Programming Mobile Applications for Android Handheld Systems: Part 1](./)
 
-- #### [Harvard University - Introduction to Computer Science CS50x]
+- #### [Harvard University - Introduction to Computer Science CS50x](./)
 
-- #### [Duke University - Java Programming: Principles of Software Design]
+- #### [Duke University - Java Programming: Principles of Software Design](./)
 
-- #### [Duke University - Java Programming: Solving Problems with Software]
+- #### [Duke University - Java Programming: Solving Problems with Software](./)
 
-- #### [Duke University - Java Programming: Arrays, Lists, and Structured Data]
+- #### [Duke University - Java Programming: Arrays, Lists, and Structured Data](./)
 
 - #### [Duke University - Data Science Math Skills]
-- #### [Massachusetts Institute of Technology - Introduction to Computer Science and Programming Using Python 6.00.1x]
+- #### [Massachusetts Institute of Technology - Introduction to Computer Science and Programming Using Python 6.00.1x](./)
 
-- #### [Massachusetts Institute of Technology - Introduction to Computational Thinking and Data Science 6.00.2x]
-- #### [Johns Hopkins University: Ruby on Rails Web Development Specialization]
-1. [Johns Hopkins University - Ruby on Rails]
+- #### [Massachusetts Institute of Technology - Introduction to Computational Thinking and Data Science 6.00.2x](./)
+- #### [Johns Hopkins University: Ruby on Rails Web Development Specialization](./)
+1. [Johns Hopkins University - Ruby on Rails](./)
 
-2. [Johns Hopkins University - Rails with Active Record and Action Pack]
-3. [Johns Hopkins University - Ruby on Rails Web Services and Integration with MongoDB]
+2. [Johns Hopkins University - Rails with Active Record and Action Pack](./)
+3. [Johns Hopkins University - Ruby on Rails Web Services and Integration with MongoDB](./)
 
-4. [Johns Hopkins University - HTML, CSS, and Javascript for Web Developers]
-5. [Johns Hopkins University - Single Page Web Applications with AngularJS]
+4. [Johns Hopkins University - HTML, CSS, and Javascript for Web Developers](./)
+5. [Johns Hopkins University - Single Page Web Applications with AngularJS](./)
 
-- #### [University of Michigan - Web Design for Everybody: Web Development & Coding Specialization]
+- #### [University of Michigan - Web Design for Everybody: Web Development & Coding Specialization](./)
 
-1. [University of Michigan - HTML5]
+1. [University of Michigan - HTML5](./)
 
-2. [University of Michigan - CSS3]
+2. [University of Michigan - CSS3](./)
 
-3. [University of Michigan -  Interactivity with JavaScript]
+3. [University of Michigan -  Interactivity with JavaScript](./)
 
-- #### [Stanford University - Introduction to Mathematical Thinking]
+- #### [Stanford University - Introduction to Mathematical Thinking](./)
 
-- #### [University of London - Responsive Website Development and Design Specialization]
+- #### [University of London - Responsive Website Development and Design Specialization](./)
 
-1. [University of London - Responsive Web Design]
+1. [University of London - Responsive Web Design](./)
 
-2. [University of London - Web Application Development with JavaScript and MongoDB]
+2. [University of London - Web Application Development with JavaScript and MongoDB](./)
 
-3. [University of London - Responsive Website Tutorial and Examples]
-- #### [University of California, San Diego - Biology Meets Programming: Bioinformatics]
-- #### [University of Toronto - Learn to Program: The Fundamentals]
+3. [University of London - Responsive Website Tutorial and Examples](./)
+- #### [University of California, San Diego - Biology Meets Programming: Bioinformatics](./)
+- #### [University of Toronto - Learn to Program: The Fundamentals](./)
 
-- #### [University of Toronto - Learn to Program: Crafting Quality Code]
-- #### [University of British Columbia - How to Code: Simple Data HtC1x]
+- #### [University of Toronto - Learn to Program: Crafting Quality Code](./)
+- #### [University of British Columbia - How to Code: Simple Data HtC1x](./)
 
-- #### [University of British Columbia - Software Construction: Data Abstraction]
+- #### [University of British Columbia - Software Construction: Data Abstraction](./)
 
-- #### [University of British Columbia - Software Construction: Object-Oriented Design]
+- #### [University of British Columbia - Software Construction: Object-Oriented Design](./)
 
 
 
