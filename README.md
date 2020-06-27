@@ -1,4 +1,4 @@
-# Coursera-courses
+# Coursera and EdX courses
 This is about learning courses in Coursera. The quiz and programming homework is belong to coursera and edx. All the answers given written by myself.
 
 # All quiz answers stored in this repositories
@@ -7,7 +7,7 @@ Datacamp website: https://www.coursera.org
 
 # List of Courses
 - #### [The University of Melbourne & The Chinese University of Hong Kong - Basic Modeling for Discrete Optimization]
-- #### [Stanford University - Machine Learning]
+- #### [Stanford University - Machine Learning](./Stanford%20University%20-%20Machine%20Learning)
 - #### [Rice University - Python Data Representations]
 
 - #### [Rice University - Python Data Analysis]
