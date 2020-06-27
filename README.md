@@ -26,20 +26,20 @@ Coursera website: https://www.coursera.org
 
 - #### [University of California, San Diego - Object Oriented Programming in Java](./UCSD%20Object%20Oriented%20Programming%20in%20Java)
 
-- #### [University of California, San Diego - Data Structures and Performance](./)
+- #### [University of California, San Diego - Data Structures and Performance](./UCSD%20Data%20Structures%20and%20Performance)
 
-- #### [University of California, San Diego - Advanced Data Structures in Java](./)
+- #### [University of California, San Diego - Advanced Data Structures in Java](./UCSD%20Advanced%20Data%20Structures%20in%20Java)
 
-- #### [IBM: Applied Data Science Specialization](./)
+- #### [IBM: Applied Data Science Specialization](./Applied%20Data%20Science%20Specialization%20IBM)
 
-1. [IBM: Open Source tools for Data Science](./)
+1. [IBM: Open Source tools for Data Science](./Applied%20Data%20Science%20Specialization%20IBM/IBM%20-%20Open%20Source%20tools%20for%20Data%20Science)
 
-2. [IBM: Data Science Methodology](./)
+2. [IBM: Data Science Methodology](./Applied%20Data%20Science%20Specialization%20IBM/IBM%20-%20Data%20Science%20Methodology)
 
-3. [IBM: Python for Data Science](./)
-4. [IBM: Databases and SQL for Data Science](./)
+3. [IBM: Python for Data Science](./Applied%20Data%20Science%20Specialization%20IBM/IBM%20-%20Python%20for%20Data%20Science)
+4. [IBM: Databases and SQL for Data Science](./Applied%20Data%20Science%20Specialization%20IBM/IBM%20-%20Databases%20and%20SQL%20for%20Data%20Science)
 
-5. [IBM: Data Analysis with Python](./)
+5. [IBM: Data Analysis with Python](./Applied%20Data%20Science%20Specialization%20IBM/IBM%20-%20Data%20Analysis%20with%20Python)
 
 6. [IBM: Data Visualization with Python](./)
 
