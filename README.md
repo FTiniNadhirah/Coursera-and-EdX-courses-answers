@@ -10,13 +10,13 @@ Datacamp website: https://www.coursera.org
 - #### [Stanford University - Machine Learning]
 - #### [Rice University - Python Data Representations]
 
-- #### [Rice University - Python Data Analysis]./Rice-Python-Data-Analysis)(
+- #### [Rice University - Python Data Analysis]
 
-- #### [Rice University - Python Data Visualization](./Rice-Python-Data-Visualization)
+- #### [Rice University - Python Data Visualization]
 
-- #### [Johns Hopkins University - Data Science Specialization](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization)
+- #### [Johns Hopkins University - Data Science Specialization]
 
-1. [Johns Hopkins University - R Programming](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization/Johns%20Hopkins%20University%20-%20R%20Programming)
+1. [Johns Hopkins University - R Programming]
 
 2. [Johns Hopkins University - Getting and Cleaning Data](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization/Johns%20Hopkins%20University%20-%20Getting%20and%20Cleaning%20Data)
 
@@ -102,29 +102,26 @@ Datacamp website: https://www.coursera.org
 
 2. [University of Michigan - CSS3](./University%20of%20Michigan%20-%20Web%20Design%20for%20Everybody/University%20of%20Michigan%20-%20%20CSS3)
 
-3. [University of Michigan -  Interactivity with JavaScript](./University%20of%20Michigan%20-%20Web%20Design%20for%20Everybody/University%20of%20Michigan%20-%20%20Interactivity%20with%20JavaScript)
+3. [University of Michigan -  Interactivity with JavaScript]
 
-- #### [Stanford University - Introduction to Mathematical Thinking](./Stanford-University-Introduction-to-Mathematical-Thinking)
+- #### [Stanford University - Introduction to Mathematical Thinking]
 
-- #### [University of London - Responsive Website Development and Design Specialization](./University%20of%20London%20-%20Responsive%20Website%20Development%20and%20Design%20Specialization)
+- #### [University of London - Responsive Website Development and Design Specialization]
 
-1. [University of London - Responsive Web Design](./University%20of%20London%20-%20Responsive%20Website%20Development%20and%20Design%20Specialization/University%20of%20London%20-%20Responsive%20Web%20Design)
+1. [University of London - Responsive Web Design]
 
-2. [University of London - Web Application Development with JavaScript and MongoDB](./University%20of%20London%20-%20Responsive%20Website%20Development%20and%20Design%20Specialization/University%20of%20London%20-%20Web%20Application%20Development%20with%20JavaScript%20and%20MongoDB)
+2. [University of London - Web Application Development with JavaScript and MongoDB]
 
-3. [University of London - Responsive Website Tutorial and Examples](./University%20of%20London%20-%20Responsive%20Website%20Development%20and%20Design%20Specialization/University%20of%20London%20-%20Responsive%20Website%20Tutorial%20and%20Examples)
+3. [University of London - Responsive Website Tutorial and Examples]
+- #### [University of California, San Diego - Biology Meets Programming: Bioinformatics]
+- #### [University of Toronto - Learn to Program: The Fundamentals]
 
-- #### [University of California, San Diego - Biology Meets Programming: Bioinformatics](./UCSD%20-%20Biology%20Meets%20Programming%20Bioinformatics)
+- #### [University of Toronto - Learn to Program: Crafting Quality Code]
+- #### [University of British Columbia - How to Code: Simple Data HtC1x]
 
-- #### [University of Toronto - Learn to Program: The Fundamentals](./University-of-Toronto-The%20Fundamentals)
+- #### [University of British Columbia - Software Construction: Data Abstraction]
 
-- #### [University of Toronto - Learn to Program: Crafting Quality Code](./University-of-Toronto-Crafting-Quality-Code)
-
-- #### [University of British Columbia - How to Code: Simple Data HtC1x](./UBCx-HtC1x)
-
-- #### [University of British Columbia - Software Construction: Data Abstraction](./UBCx-Software-Construction-Data-Abstraction-SoftConst1x)
-
-- #### [University of British Columbia - Software Construction: Object-Oriented Design](./UBCx-Software-Construction-OOP-SoftConst2x)
+- #### [University of British Columbia - Software Construction: Object-Oriented Design]
 
 
 
