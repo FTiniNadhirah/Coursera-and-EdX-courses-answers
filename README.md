@@ -86,14 +86,12 @@ Datacamp website: https://www.coursera.org
 
 - #### [Johns Hopkins University: Ruby on Rails Web Development Specialization](./Johns%20Hopkins%20University%20-%20Ruby%20on%20Rails%20Web%20Development%20Specialization)
 
-1. [Johns Hopkins University - Ruby on Rails](./Johns%20Hopkins%20University%20-%20Ruby%20on%20Rails%20Web%20Development%20Specialization/Johns%20Hopkins%20University%20-%20Ruby%20on%20Rails)
+1. [Johns Hopkins University - Ruby on Rails]
 
-2. [Johns Hopkins University - Rails with Active Record and Action Pack](./Johns%20Hopkins%20University%20-%20Ruby%20on%20Rails%20Web%20Development%20Specialization/Johns%20Hopkins%20University%20-%20Rails%20with%20Active%20Record%20and%20Action%20Pack)
+2. [Johns Hopkins University - Rails with Active Record and Action Pack]
+3. [Johns Hopkins University - Ruby on Rails Web Services and Integration with MongoDB]
 
-3. [Johns Hopkins University - Ruby on Rails Web Services and Integration with MongoDB](./Johns%20Hopkins%20University%20-%20Ruby%20on%20Rails%20Web%20Development%20Specialization/JHU%20-%20Ruby%20on%20Rails%20Web%20Services%20and%20Integration%20with%20MongoDB)
-
-4. [Johns Hopkins University - HTML, CSS, and Javascript for Web Developers](./Johns%20Hopkins%20University%20-%20Ruby%20on%20Rails%20Web%20Development%20Specialization/Johns%20Hopkins%20University%20-%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers)
-
+4. [Johns Hopkins University - HTML, CSS, and Javascript for Web Developers]
 5. [Johns Hopkins University - Single Page Web Applications with AngularJS]
 
 - #### [University of Michigan - Web Design for Everybody: Web Development & Coding Specialization]
