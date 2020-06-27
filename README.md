@@ -18,43 +18,42 @@ Datacamp website: https://www.coursera.org
 
 1. [Johns Hopkins University - R Programming]
 
-2. [Johns Hopkins University - Getting and Cleaning Data](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization/Johns%20Hopkins%20University%20-%20Getting%20and%20Cleaning%20Data)
+2. [Johns Hopkins University - Getting and Cleaning Data]
 
-3. [Johns Hopkins University - Exploratory Data Analysis](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization/Johns%20Hopkins%20University%20-%20Exploratory%20Data%20Analysis)
+3. [Johns Hopkins University - Exploratory Data Analysis]
 
-4. [Johns Hopkins University - Reproducible Research](./Johns%20Hopkins%20University%20-%20Data%20Science%20Specialization/Johns%20Hopkins%20University%20-%20Reproducible%20Research)
+4. [Johns Hopkins University - Reproducible Research]
 
-- #### [University of California, San Diego - Object Oriented Programming in Java](./UCSD-Object-Oriented-Programming-in-Java)
+- #### [University of California, San Diego - Object Oriented Programming in Java]
 
-- #### [University of California, San Diego - Data Structures and Performance](./UCSD-Data-Structures-and-Performance)
+- #### [University of California, San Diego - Data Structures and Performance]
 
-- #### [University of California, San Diego - Advanced Data Structures in Java](./UCSD-Advanced-Data-Structures-in-Java)
+- #### [University of California, San Diego - Advanced Data Structures in Java]
 
-- #### [IBM: Applied Data Science Specialization](./Applied-Data-Science-Specialization-IBM)
+- #### [IBM: Applied Data Science Specialization]
 
-1. [IBM: Open Source tools for Data Science](./Applied-Data-Science-Specialization-IBM/IBM%20-%20Open%20Source%20tools%20for%20Data%20Science)
+1. [IBM: Open Source tools for Data Science]
 
-2. [IBM: Data Science Methodology](./Applied-Data-Science-Specialization-IBM/IBM%20-%20Data%20Science%20Methodology)
+2. [IBM: Data Science Methodology]
 
-3. [IBM: Python for Data Science](./Applied-Data-Science-Specialization-IBM/IBM%20-%20Python%20for%20Data%20Science)
+3. [IBM: Python for Data Science]
+4. [IBM: Databases and SQL for Data Science]
 
-4. [IBM: Databases and SQL for Data Science](./Applied-Data-Science-Specialization-IBM/IBM%20-%20Databases%20and%20SQL%20for%20Data%20Science)
+5. [IBM: Data Analysis with Python]
 
-5. [IBM: Data Analysis with Python](./Applied-Data-Science-Specialization-IBM/IBM%20-%20Data%20Analysis%20with%20Python)
+6. [IBM: Data Visualization with Python]
 
-6. [IBM: Data Visualization with Python](./Applied-Data-Science-Specialization-IBM/IBM%20-%20Data%20Visualization%20with%20Python)
+7. [IBM: Machine Learning with Python]
 
-7. [IBM: Machine Learning with Python](./Applied-Data-Science-Specialization-IBM/IBM%20-%20Machine%20Learning%20with%20Python)
+8. [IBM: Applied Data Science Capstone Project]
 
-8. [IBM: Applied Data Science Capstone Project](./Applied-Data-Science-Specialization-IBM/IBM%20-%20Applied%20Data%20Science%20Capstone%20Project)
+- #### [University of Helsinki: Object-Oriented Programming with Java, part I]
 
-- #### [University of Helsinki: Object-Oriented Programming with Java, part I](./Object-Oriented-Programming-with-Java-pt1-University-of%20Helsinki-moocfi)
+- #### [The Hong Kong University of Science and Technology - Python and Statistics for Financial Analysis]
 
-- #### [The Hong Kong University of Science and Technology - Python and Statistics for Financial Analysis](./HKUST%20%20-%20Python%20and%20Statistics%20for%20Financial%20Analysis)
+- #### [Google IT Automation with Python Professional Certificate]
 
-- #### [Google IT Automation with Python Professional Certificate](./Google%20IT%20Automation%20with%20Python)
-
-1. [Google - Crash Course on Python](./Google%20IT%20Automation%20with%20Python/Google%20-%20Crash%20Course%20on%20Python)
+1. [Google - Crash Course on Python]
 
 2. [Google - Using Python to Interact with the Operating System]
 
