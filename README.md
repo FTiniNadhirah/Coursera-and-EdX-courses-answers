@@ -41,11 +41,11 @@ Coursera website: https://www.coursera.org
 
 5. [IBM: Data Analysis with Python](./Applied%20Data%20Science%20Specialization%20IBM/IBM%20-%20Data%20Analysis%20with%20Python)
 
-6. [IBM: Data Visualization with Python](./)
+6. [IBM: Data Visualization with Python](.Applied%20Data%20Science%20Specialization%20IBM/IBM%20-%20Data%20Visualization%20with%20Python/)
 
-7. [IBM: Machine Learning with Python](./)
+7. [IBM: Machine Learning with Python](./Applied%20Data%20Science%20Specialization%20IBM/IBM%20-%20Machine%20Learning%20with%20Python)
 
-8. [IBM: Applied Data Science Capstone Project](./)
+8. [IBM: Applied Data Science Capstone Project](./Applied%20Data%20Science%20Specialization%20IBM/IBM%20-%20Applied%20Data%20Science%20Capstone%20Project)
 
 - #### [University of Helsinki: Object-Oriented Programming with Java, part I](./)
 
