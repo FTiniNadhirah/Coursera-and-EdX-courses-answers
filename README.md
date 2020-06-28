@@ -51,11 +51,11 @@ Coursera website: https://www.coursera.org
 
 - #### [The Hong Kong University of Science and Technology - Python and Statistics for Financial Analysis](./HKUST%20%20-%20Python%20and%20Statistics%20for%20Financial%20Analysis)
 
-- #### [Google IT Automation with Python Professional Certificate](./)
+- #### [Google IT Automation with Python Professional Certificate](./Google%20IT%20Automation%20with%20Python)
 
-1. [Google - Crash Course on Python](./)
+1. [Google - Crash Course on Python](./Google%20IT%20Automation%20with%20Python/Google%20-%20Crash%20Course%20on%20Python)
 
-2. [Google - Using Python to Interact with the Operating System](./)
+2. [Google - Using Python to Interact with the Operating System](./Google%20IT%20Automation%20with%20Python/Google%20-%20Using%20Python%20to%20Interact%20with%20the%20Operating%20System)
 
 - #### [Delft University of Technology - Automated Software Testing](./)
 - #### [University of Maryland, College Park: Cybersecurity Specialization](./)
