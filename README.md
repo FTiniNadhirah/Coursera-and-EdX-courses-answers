@@ -57,22 +57,18 @@ Coursera website: https://www.coursera.org
 
 2. [Google - Using Python to Interact with the Operating System](./Google%20IT%20Automation%20with%20Python/Google%20-%20Using%20Python%20to%20Interact%20with%20the%20Operating%20System)
 
-- #### [Delft University of Technology - Automated Software Testing](./)
-- #### [University of Maryland, College Park: Cybersecurity Specialization](./)
+- #### [Delft University of Technology - Automated Software Testing](./Delft%20University%20of%20Technology%20-%20Automated%20Software%20Testing)
+- #### [University of Maryland, College Park: Cybersecurity Specialization](./University%20of%20Maryland%20-%20Cybersecurity%20Specialization.rar)
 
-1. [University of Maryland, College Park: Software Security](./)
+- #### [University of Maryland, College Park: Programming Mobile Applications for Android Handheld Systems: Part 1](./University%20of%20Maryland%20-%20Programming%20Mobile%20Applications%20for%20Android%20Handheld%20Systems%2C%20Part%20I)
 
-2. [University of Maryland, College Park: Usable Security](./)
+- #### [Harvard University - Introduction to Computer Science CS50x](./Harvard-CS50x)
 
-- #### [University of Maryland, College Park: Programming Mobile Applications for Android Handheld Systems: Part 1](./)
+- #### [Duke University - Java Programming: Principles of Software Design](./Duke%20University-%20Java%20Programming%20Principles%20of%20Software%20Design)
 
-- #### [Harvard University - Introduction to Computer Science CS50x](./)
+- #### [Duke University - Java Programming: Solving Problems with Software](./Duke%20Java%20Programming%20Solving%20Problem%20with%20Software)
 
-- #### [Duke University - Java Programming: Principles of Software Design](./)
-
-- #### [Duke University - Java Programming: Solving Problems with Software](./)
-
-- #### [Duke University - Java Programming: Arrays, Lists, and Structured Data](./)
+- #### [Duke University - Java Programming: Arrays, Lists, and Structured Data](./Duke%20Java%20Programming%20Arrays%20Lists%20Structured%20Data)
 
 - #### [Duke University - Data Science Math Skills](./)
 - #### [Massachusetts Institute of Technology - Introduction to Computer Science and Programming Using Python 6.00.1x](./)
