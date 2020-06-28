@@ -49,7 +49,7 @@ Coursera website: https://www.coursera.org
 
 - #### [University of Helsinki: Object-Oriented Programming with Java, part I](./Object%20Oriented%20Programming%20with%20Java%20pt1%20University%20of%20Helsinki%20moocfi)
 
-- #### [The Hong Kong University of Science and Technology - Python and Statistics for Financial Analysis](./)
+- #### [The Hong Kong University of Science and Technology - Python and Statistics for Financial Analysis](./HKUST%20%20-%20Python%20and%20Statistics%20for%20Financial%20Analysis)
 
 - #### [Google IT Automation with Python Professional Certificate](./)
 
