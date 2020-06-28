@@ -70,36 +70,25 @@ Coursera website: https://www.coursera.org
 
 - #### [Duke University - Java Programming: Arrays, Lists, and Structured Data](./Duke%20Java%20Programming%20Arrays%20Lists%20Structured%20Data)
 
-- #### [Duke University - Data Science Math Skills](./)
-- #### [Massachusetts Institute of Technology - Introduction to Computer Science and Programming Using Python 6.00.1x](./)
+- #### [Duke University - Data Science Math Skills](./Duke%20University-Data%20Science%20Math%20Skills)
+- #### [Massachusetts Institute of Technology - Introduction to Computer Science and Programming Using Python 6.00.1x](./MITx-6.00.1x)
 
-- #### [Massachusetts Institute of Technology - Introduction to Computational Thinking and Data Science 6.00.2x](./)
-- #### [Johns Hopkins University: Ruby on Rails Web Development Specialization](./)
-1. [Johns Hopkins University - Ruby on Rails](./)
+- #### [Massachusetts Institute of Technology - Introduction to Computational Thinking and Data Science 6.00.2x](./MITx-6.00.2x)
+- #### [Johns Hopkins University: Ruby on Rails Web Development Specialization](./Johns%20Hopkins%20University%20-%20Ruby%20on%20Rails%20Web%20Development%20Specialization.rar)
 
-2. [Johns Hopkins University - Rails with Active Record and Action Pack](./)
-3. [Johns Hopkins University - Ruby on Rails Web Services and Integration with MongoDB](./)
 
-4. [Johns Hopkins University - HTML, CSS, and Javascript for Web Developers](./)
-5. [Johns Hopkins University - Single Page Web Applications with AngularJS](./)
+- #### [University of Michigan - Web Design for Everybody: Web Development & Coding Specialization](./University%20of%20Michigan%20-%20Web%20Design%20for%20Everybody)
 
-- #### [University of Michigan - Web Design for Everybody: Web Development & Coding Specialization](./)
+1. [University of Michigan - HTML5](./University%20of%20Michigan%20-%20Web%20Design%20for%20Everybody/University%20of%20Michigan%20-%20%20HTML5)
 
-1. [University of Michigan - HTML5](./)
+2. [University of Michigan - CSS3](./University%20of%20Michigan%20-%20Web%20Design%20for%20Everybody/University%20of%20Michigan%20-%20%20CSS3)
 
-2. [University of Michigan - CSS3](./)
+3. [University of Michigan -  Interactivity with JavaScript](./University%20of%20Michigan%20-%20Web%20Design%20for%20Everybody/University%20of%20Michigan%20-%20%20Interactivity%20with%20JavaScript)
 
-3. [University of Michigan -  Interactivity with JavaScript](./)
+- #### [Stanford University - Introduction to Mathematical Thinking](./Stanford-University%20Introduction%20to%20Mathematical%20Thinking)
 
-- #### [Stanford University - Introduction to Mathematical Thinking](./)
+- #### [University of London - Responsive Website Development and Design Specialization](./University%20of%20London%20-%20Responsive%20Website%20Development%20and%20Design%20Specialization.rar)
 
-- #### [University of London - Responsive Website Development and Design Specialization](./)
-
-1. [University of London - Responsive Web Design](./)
-
-2. [University of London - Web Application Development with JavaScript and MongoDB](./)
-
-3. [University of London - Responsive Website Tutorial and Examples](./)
 - #### [University of California, San Diego - Biology Meets Programming: Bioinformatics](./)
 - #### [University of Toronto - Learn to Program: The Fundamentals](./)
 
