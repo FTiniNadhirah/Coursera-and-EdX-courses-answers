@@ -89,15 +89,15 @@ Coursera website: https://www.coursera.org
 
 - #### [University of London - Responsive Website Development and Design Specialization](./University%20of%20London%20-%20Responsive%20Website%20Development%20and%20Design%20Specialization.rar)
 
-- #### [University of California, San Diego - Biology Meets Programming: Bioinformatics](./)
-- #### [University of Toronto - Learn to Program: The Fundamentals](./)
+- #### [University of California, San Diego - Biology Meets Programming: Bioinformatics](./UCSD%20%20Biology%20Meets%20Programming%20Bioinformatics)
+- #### [University of Toronto - Learn to Program: The Fundamentals](./University%20of%20Toronto%20The%20Fundamentals)
 
-- #### [University of Toronto - Learn to Program: Crafting Quality Code](./)
-- #### [University of British Columbia - How to Code: Simple Data HtC1x](./)
+- #### [University of Toronto - Learn to Program: Crafting Quality Code](./University%20of%20Toronto%20Crafting%20Quality%20Code)
+- #### [University of British Columbia - How to Code: Simple Data HtC1x](./UBCx-HtC1x)
 
-- #### [University of British Columbia - Software Construction: Data Abstraction](./)
+- #### [University of British Columbia - Software Construction: Data Abstraction](./UBCx-Software%20Construction%20Data%20Abstraction%20SoftConst1x.rar)
 
-- #### [University of British Columbia - Software Construction: Object-Oriented Design](./)
+- #### [University of British Columbia - Software Construction: Object-Oriented Design](./UBCx%20Software%20Construction%20OOP%20oftConst2x)
 
 
 
