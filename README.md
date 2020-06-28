@@ -98,8 +98,9 @@ Coursera website: https://www.coursera.org
 - #### [University of British Columbia - Software Construction: Data Abstraction](./UBCx-Software%20Construction%20Data%20Abstraction%20SoftConst1x.rar)
 
 - #### [University of British Columbia - Software Construction: Object-Oriented Design](./UBCx%20Software%20Construction%20OOP%20oftConst2x)
--####[](./)
-
+- #### [AWS-AWS Computer Vision Getting Started with GluonCV]()
+- #### [Vanderbilt University-Introduction to Programming with MATLAB]()
+- #### [University of California, Santa Cruz-C++ For C Programmers, Part A]()
 
  # Like it? 
   Please click Star to support us.
