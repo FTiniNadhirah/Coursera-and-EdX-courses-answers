@@ -98,10 +98,10 @@ Coursera website: https://www.coursera.org
 - #### [University of British Columbia - Software Construction: Data Abstraction](./UBCx-Software%20Construction%20Data%20Abstraction%20SoftConst1x.rar)
 
 - #### [University of British Columbia - Software Construction: Object-Oriented Design](./UBCx%20Software%20Construction%20OOP%20oftConst2x)
-- #### [AWS-AWS Computer Vision Getting Started with GluonCV]()
-- #### [Vanderbilt University-Introduction to Programming with MATLAB]()
-- #### [University of California, Santa Cruz-C++ For C Programmers, Part A]()
-- #### [CentraleSupélec-Build Your First Android App (Project-Centered Course)]()
+- #### [AWS-AWS Computer Vision Getting Started with GluonCV](./AWS-AWS%20Computer%20Vision%20Getting%20Started%20with%20GluonCV)
+- #### [Vanderbilt University-Introduction to Programming with MATLAB](./Vanderbilt%20University-Introduction%20to%20Programming%20with%20MATLAB)
+- #### [University of California, Santa Cruz-C++ For C Programmers, Part A](./University%20of%20California%2C%20Santa%20Cruz-C%2B%2B%20For%20C%20Programmers%2C%20Part%20A)
+- #### [CentraleSupélec-Build Your First Android App (Project-Centered Course)](./CentraleSupélec-Build%20Your%20First%20Android%20App%20(Project-Centered%20Course)/My%20First%20app/MyApplication)
 
  # Like it? 
   Please click Star to support us.
