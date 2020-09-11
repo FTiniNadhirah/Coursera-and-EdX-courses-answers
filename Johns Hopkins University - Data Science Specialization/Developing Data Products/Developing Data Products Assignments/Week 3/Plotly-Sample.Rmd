@@ -1,0 +1,37 @@
+---
+title: "European Stock Indices (1991-1998)"
+author: "Yash Kumar Singh"
+date: "September 2, 2017"
+output: ioslides_presentation
+---
+
+## Code
+
+Through this code we try to plot the closing prices of major European stock indices in the years of 1991 to 1998.
+
+```{r, echo=TRUE, eval=FALSE}
+library(plotly)
+library(tidyr)
+library(dplyr)
+data("EuStockMarkets")
+stocks <- as.data.frame(EuStockMarkets) %>%
+  gather(index, price) %>%
+  mutate(time = rep(time(EuStockMarkets), 4))
+plot_ly(stocks, x = ~time, y = ~price, color = ~index, mode = "lines")
+
+```
+
+## Plot
+
+```{r, echo=FALSE, eval=TRUE, message=FALSE}
+library(plotly)
+library(tidyr)
+library(dplyr)
+data("EuStockMarkets")
+stocks <- as.data.frame(EuStockMarkets) %>%
+  gather(index, price) %>%
+  mutate(time = rep(time(EuStockMarkets), 4))
+plot_ly(stocks, x = ~time, y = ~price, color = ~index, mode = "lines")
+
+```
+
